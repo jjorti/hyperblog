@@ -1,17 +1,33 @@
+#cabecera{
+    font-size: 25px;
+    margin: 0 auto;
+    color: #1F1F1F;
+    background: #ccc;
+    box-shadow: 1px 8px 4px 1px rgba(5, 5, 5, 0.4);
+}
+#tag{
+    font-weight: bold;
+    font-size: 14px;
+    margin-left:3px ;
+}
+#post{
+    padding: 5px;
+}
 #titulo{
-    font-size: 30px;
+    font-size: 19px;
     color: black;
 }
 
 #parrafo{
-    font-size: 25px;
+    font-size: 17px;
     color: blue;
 }
 
 #container{
+    margin-top: 0px;
+    padding: 0px;
     margin: 0 auto;
     text-align: left;
-    padding: 1em;
     width: 70%;
     border: 1px solid black
 }
