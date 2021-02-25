@@ -24,6 +24,13 @@
 
 }
 
+#footer{
+    border: 1px solid #2c2c2c;
+    margin: 1px;
+    text-align: center;
+    color: #2b4697;
+}
+
 #container{
     margin-top: 0px;
     padding: 0px;
